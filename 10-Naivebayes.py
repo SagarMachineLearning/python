@@ -5,6 +5,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 #reading the dataset
 ds = pd.read_csv("/home/ubuntu/Downloads/germany.csv")
+
 #dataset visualization
 sns.FacetGrid(ds,hue='Outcome',size=9).map(plt.scatter,'Pregnancies','Glucose').add_legend()
 
