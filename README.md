@@ -1,5 +1,4 @@
-# python
-Machine Learning Basics for the student who have just started the journey with the python programing and machine learning
+# python : Machine Learning Basics for the student 
 
 Linear Regression using Single Variant : Linear Regression is a supervised machine learning algorithm where the predicted output is continuous and has a constant slope. It's used to predict values within a continuous range, (e.g. sales, price) rather than trying to classify them into categories (e.g. cat, dog).
 
